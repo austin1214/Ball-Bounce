@@ -21,6 +21,17 @@
 		C452373C188F6B27009D077A /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C452371E188F6B25009D077A /* UIKit.framework */; };
 		C4523744188F6B27009D077A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = C4523742188F6B27009D077A /* InfoPlist.strings */; };
 		C4523746188F6B27009D077A /* Ball_BounceTests.m in Sources */ = {isa = PBXBuildFile; fileRef = C4523745188F6B27009D077A /* Ball_BounceTests.m */; };
+		C4523750188F7146009D077A /* Ball.png in Resources */ = {isa = PBXBuildFile; fileRef = C452374F188F7146009D077A /* Ball.png */; };
+		C4523754188F714F009D077A /* BallBounce1.png in Resources */ = {isa = PBXBuildFile; fileRef = C4523751188F714F009D077A /* BallBounce1.png */; };
+		C4523755188F714F009D077A /* Platform1.png in Resources */ = {isa = PBXBuildFile; fileRef = C4523752188F714F009D077A /* Platform1.png */; };
+		C4523756188F714F009D077A /* BallBounce2.png in Resources */ = {isa = PBXBuildFile; fileRef = C4523753188F714F009D077A /* BallBounce2.png */; };
+		C4523759188F73D2009D077A /* Game.m in Sources */ = {isa = PBXBuildFile; fileRef = C4523758188F73D2009D077A /* Game.m */; };
+		C4C868F31891D2C600822960 /* GameKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C4C868F21891D2C600822960 /* GameKit.framework */; };
+		C4C868F51891D2CB00822960 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C4C868F41891D2CB00822960 /* StoreKit.framework */; };
+		C4C868FC1891D6AA00822960 /* Images-2.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C4C868FB1891D6AA00822960 /* Images-2.xcassets */; };
+		C4C869001891D88700822960 /* 4'.png in Resources */ = {isa = PBXBuildFile; fileRef = C4C868FE1891D88700822960 /* 4'.png */; };
+		C4C869011891D88700822960 /* 3'.png in Resources */ = {isa = PBXBuildFile; fileRef = C4C868FF1891D88700822960 /* 3'.png */; };
+		C4C869031891D92900822960 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C4C869021891D92900822960 /* Default-568h@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +64,19 @@
 		C4523741188F6B27009D077A /* Ball BounceTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Ball BounceTests-Info.plist"; sourceTree = "<group>"; };
 		C4523743188F6B27009D077A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		C4523745188F6B27009D077A /* Ball_BounceTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Ball_BounceTests.m; sourceTree = "<group>"; };
+		C452374F188F7146009D077A /* Ball.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Ball.png; sourceTree = "<group>"; };
+		C4523751188F714F009D077A /* BallBounce1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BallBounce1.png; sourceTree = "<group>"; };
+		C4523752188F714F009D077A /* Platform1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Platform1.png; sourceTree = "<group>"; };
+		C4523753188F714F009D077A /* BallBounce2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BallBounce2.png; sourceTree = "<group>"; };
+		C4523757188F73D2009D077A /* Game.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Game.h; path = ../Game.h; sourceTree = "<group>"; };
+		C4523758188F73D2009D077A /* Game.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Game.m; path = ../Game.m; sourceTree = "<group>"; };
+		C4C868F21891D2C600822960 /* GameKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GameKit.framework; path = System/Library/Frameworks/GameKit.framework; sourceTree = SDKROOT; };
+		C4C868F41891D2CB00822960 /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
+		C4C868FB1891D6AA00822960 /* Images-2.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Images-2.xcassets"; sourceTree = "<group>"; };
+		C4C868FD1891D6C200822960 /* 120x120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 120x120.png; path = ../120x120.png; sourceTree = "<group>"; };
+		C4C868FE1891D88700822960 /* 4'.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "4'.png"; sourceTree = "<group>"; };
+		C4C868FF1891D88700822960 /* 3'.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "3'.png"; sourceTree = "<group>"; };
+		C4C869021891D92900822960 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default-568h@2x.png"; path = "../Default-568h@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,7 +86,9 @@
 			files = (
 				C452371D188F6B25009D077A /* CoreGraphics.framework in Frameworks */,
 				C452371F188F6B25009D077A /* UIKit.framework in Frameworks */,
+				C4C868F51891D2CB00822960 /* StoreKit.framework in Frameworks */,
 				C452371B188F6B25009D077A /* Foundation.framework in Frameworks */,
+				C4C868F31891D2C600822960 /* GameKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -101,6 +127,8 @@
 		C4523719188F6B25009D077A /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				C4C868F41891D2CB00822960 /* StoreKit.framework */,
+				C4C868F21891D2C600822960 /* GameKit.framework */,
 				C452371A188F6B25009D077A /* Foundation.framework */,
 				C452371C188F6B25009D077A /* CoreGraphics.framework */,
 				C452371E188F6B25009D077A /* UIKit.framework */,
@@ -117,7 +145,10 @@
 				C452372C188F6B26009D077A /* Main.storyboard */,
 				C452372F188F6B26009D077A /* ViewController.h */,
 				C4523730188F6B26009D077A /* ViewController.m */,
+				C4523757188F73D2009D077A /* Game.h */,
+				C4523758188F73D2009D077A /* Game.m */,
 				C4523732188F6B27009D077A /* Images.xcassets */,
+				C4C868FB1891D6AA00822960 /* Images-2.xcassets */,
 				C4523721188F6B26009D077A /* Supporting Files */,
 			);
 			path = "Ball Bounce";
@@ -126,6 +157,14 @@
 		C4523721188F6B26009D077A /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				C4C869021891D92900822960 /* Default-568h@2x.png */,
+				C4C868FD1891D6C200822960 /* 120x120.png */,
+				C4C868FE1891D88700822960 /* 4'.png */,
+				C4C868FF1891D88700822960 /* 3'.png */,
+				C4523751188F714F009D077A /* BallBounce1.png */,
+				C4523752188F714F009D077A /* Platform1.png */,
+				C4523753188F714F009D077A /* BallBounce2.png */,
+				C452374F188F7146009D077A /* Ball.png */,
 				C4523722188F6B26009D077A /* Ball Bounce-Info.plist */,
 				C4523723188F6B26009D077A /* InfoPlist.strings */,
 				C4523726188F6B26009D077A /* main.m */,
@@ -199,6 +238,17 @@
 				LastUpgradeCheck = 0500;
 				ORGANIZATIONNAME = "Austin Brogdon";
 				TargetAttributes = {
+					C4523716188F6B25009D077A = {
+						DevelopmentTeam = LU225FHT46;
+						SystemCapabilities = {
+							com.apple.GameCenter = {
+								enabled = 1;
+							};
+							com.apple.InAppPurchase = {
+								enabled = 1;
+							};
+						};
+					};
 					C4523737188F6B27009D077A = {
 						TestTargetID = C4523716188F6B25009D077A;
 					};
@@ -229,8 +279,16 @@
 			buildActionMask = 2147483647;
 			files = (
 				C4523733188F6B27009D077A /* Images.xcassets in Resources */,
+				C4C869031891D92900822960 /* Default-568h@2x.png in Resources */,
+				C4523756188F714F009D077A /* BallBounce2.png in Resources */,
+				C4C868FC1891D6AA00822960 /* Images-2.xcassets in Resources */,
+				C4523754188F714F009D077A /* BallBounce1.png in Resources */,
+				C4523755188F714F009D077A /* Platform1.png in Resources */,
+				C4C869011891D88700822960 /* 3'.png in Resources */,
 				C4523725188F6B26009D077A /* InfoPlist.strings in Resources */,
+				C4523750188F7146009D077A /* Ball.png in Resources */,
 				C452372E188F6B26009D077A /* Main.storyboard in Resources */,
+				C4C869001891D88700822960 /* 4'.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -252,6 +310,7 @@
 				C4523731188F6B26009D077A /* ViewController.m in Sources */,
 				C452372B188F6B26009D077A /* AppDelegate.m in Sources */,
 				C4523727188F6B26009D077A /* main.m in Sources */,
+				C4523759188F73D2009D077A /* Game.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -376,12 +435,13 @@
 		C452374A188F6B27009D077A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Ball Bounce/Ball Bounce-Prefix.pch";
 				INFOPLIST_FILE = "Ball Bounce/Ball Bounce-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -389,12 +449,14 @@
 		C452374B188F6B27009D077A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=*]" = "iPhone Developer: Lamar Brogdon (4K65G98KRL)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Ball Bounce/Ball Bounce-Prefix.pch";
 				INFOPLIST_FILE = "Ball Bounce/Ball Bounce-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -460,6 +522,7 @@
 				C452374B188F6B27009D077A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C452374C188F6B27009D077A /* Build configuration list for PBXNativeTarget "Ball BounceTests" */ = {
 			isa = XCConfigurationList;
@@ -468,6 +531,7 @@
 				C452374E188F6B27009D077A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
