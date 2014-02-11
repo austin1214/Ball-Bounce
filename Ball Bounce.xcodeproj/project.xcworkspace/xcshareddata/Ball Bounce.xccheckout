@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>084E38A1-004E-43A2-AED8-02E8398F4A84</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Ball Bounce</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E88ACAA0-5EC8-4A02-A2BB-2F4D0831C831</key>
+		<string>https://github.com/austin1214/Ball-Bounce.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Ball Bounce.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E88ACAA0-5EC8-4A02-A2BB-2F4D0831C831</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/austin1214/Ball-Bounce.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E88ACAA0-5EC8-4A02-A2BB-2F4D0831C831</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E88ACAA0-5EC8-4A02-A2BB-2F4D0831C831</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Ball Bounce</string>
+		</dict>
+	</array>
+</dict>
+</plist>
